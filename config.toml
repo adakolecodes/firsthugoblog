@@ -1,4 +1,4 @@
 baseURL = 'http://adakolecodes.github.io/firsthugoblog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site Blog'
+title = 'My First Hugo Blog'
 theme = 'aether'
